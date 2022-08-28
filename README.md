@@ -1,2 +1,3 @@
-#Proje Özeti
-Teknofest Elektrikli Araç yarışları için okulumuzun geliştirdiği elektrikli aracın Hız,Batarya Sıcaklığı,Batarya Gerilimi,Batarya Yüzdesi,Kalan Tahmini Pil Ömrü,Pedallara Basma Yüzdesi,Direksiyon Yönü gibi verilerin göstergeler halinde gösterileceği ve yarış sırasındaki tüm verilerin kaydının bir dosya şeklinde indirilebileceği bir Telemetri arayüzü geliştirdik.Aracın üzerinde bulunana nodeMCU internet modülü sayesinde araçtaki verileri alıp Firebase'deki veritabanımıza gönderdik ve sitemiz üzerinde de bu verileri göstergeler şeklinde gösterdik.
+# Portfolyo
+
+Projelerimi derleyip tek bir kaynakta detaylarıyla birlikte gösterip paylaşmak için ve aynı zamanda sosyal hesaplarımı da tek bir kaynakta gösterip "Networking" işleri için de kullnabileceğim bir siteye ihtiyacım vardı ben de bunun üzerine çoğu Web geliştiricinin yaptığı gibi tüm sosyal hesaplarımı ve projelerimi derlediğim aynı zamanda bildiğim dilleri ve kendim hakkımda bazı bilgileri paylaştığım bir Portfolyo sitesi oluşturmaya karar verdim böylece bu Web sitesini geliştirdim.
